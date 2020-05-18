@@ -1,0 +1,54 @@
+            .forma{
+                float: left;
+                background-color: #414143;
+                width: 100%;
+                height: 350px;
+
+            }
+            #caja1{
+            float: left;
+            background-color: #414143; 
+            width: 100%;
+            height: 600px;
+            }
+            .contenido{
+                float: left;
+                background-color: #C81D11;
+                width: 100%;
+                height: 900px;
+            }
+            .p {
+            margin-left: 5%;
+            margin-right: 5%;
+            padding: 5px;
+            }
+
+            p {
+            margin-left: 5%;
+            margin-right: 5%;
+            }
+            .derecha{
+                float: left;
+                background-color: #C81D11;
+                width: 20%;
+                height: 100px;
+            }
+            .cuadro{
+                float: left;
+                background-color: #414143;
+                width: 50%;
+                height: 350px;
+
+            }
+            .cuadro2{
+                float: left;
+                background-color: #414143;
+                width: 50%;
+                height: 350px;
+            }
+            .cuadro3{
+                float: left;
+                background-color: #414143;
+                width: 50%;
+                height: 350px;
+            }
